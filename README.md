@@ -1,11 +1,15 @@
 # AR Foundation Multiple Image Tracking - Unity
 
 This is Unity AR Foundation implementation for multiple Image tracking. Here is how it looks.
+
 ![](gif/ARF_Image_Tracking.gif)
+
 You can build interesting enterprise AR applications using this. Check this [video](https://www.youtube.com/watch?v=6Ct2Cb71Wf0)
+
 ### Prerequisites
   - Unity 2019.x and above
   - Android or iOS build support module
+  
 ### Usage
   - Download the git repo and add the Unity project by selecting "DigiCard" folder
   - Once the unity project is loaded, go to Builder settings and select Android as a platform (iOS can also work)
